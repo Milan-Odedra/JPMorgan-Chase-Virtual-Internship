@@ -4,6 +4,8 @@ This repository will contain submitted patch file solutions to the various tasks
 # Task 1:
 Changes the following methods in the file
 
-*getDataPoint - Changing how price is computed by adding a forumula
-*getRatio - Conditional to avoid throwing ZeroDivisionError
-*Main - Store data points to print right ratio out.
+**getDataPoint - Changing how price is computed by adding a forumula**
+
+**getRatio - Conditional to avoid throwing ZeroDivisionError**
+
+**Main - Store data points to print right ratio out.**
